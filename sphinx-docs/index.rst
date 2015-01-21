@@ -11,6 +11,25 @@ I just want to give an example here of how documentation can be organized. Be su
 .. _rst primer: http://sphinx-doc.org/rest.html
 .. _toctree directive: http://sphinx-doc.org/markup/toctree.html
 
+.. screenshot::
+   :language: en
+
+.. screenshot::
+   :language: fr
+   :url: /a/test/url
+
+.. screenshot::
+   :language: de
+   :url: /another/test/url
+   :focus: just_the_id
+
+.. screenshot:: joy_web_logo.png
+   :language: be
+   :url: /another/test/url/2
+   :focus: the_id and the annotation
+   :alt: alt text here
+   :class: is_this_a_list of css_classes
+
 Contents:
 
 .. toctree::
