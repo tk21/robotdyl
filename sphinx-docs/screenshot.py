@@ -17,7 +17,6 @@ class Screenshot(Image):
     optional_arguments = 1
     has_content = False
 
-
     def _focus(arg_str):
         """
         First argument should be the id. An optional annotation can follow.
@@ -30,18 +29,20 @@ class Screenshot(Image):
             return {'id': split_str[0], 'annotation': split_str[1]}
     
     option_spec = Image.option_spec.copy()
-    option_spec['language'] = directives.unchanged
     option_spec['url']      = directives.unchanged
     option_spec['focus']    = _focus
 
 
     def run(self):
+        # Language xx can be set in conf.py or by: make SPHINXOPTS="-D language=xx" html
+        # Build language can be accessed from the BuildEnvironment, e.g.
+        env = self.state.document.settings.env # sphinx.environment.BuildEnvironment
+        language = env.config.language
         return_nodes = []
         if len(self.arguments) == 1:
             (image_node,) = Image.run(self)
             return_nodes.append(image_node)
-        if 'language' in self.options:
-            return_nodes.append(nodes.Text("Language code is '%s'.  " % self.options['language']))
+        return_nodes.append(nodes.Text("Language code is '%s'.  " % language))
         if 'url' in self.options:
             return_nodes.append(nodes.Text("URL is '%s'.  " % self.options['url']))
         if 'focus' in self.options:
