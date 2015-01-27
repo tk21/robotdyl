@@ -6,7 +6,7 @@
 Welcome to KA Lite's documentation!
 ===================================
 
-I just wanted [blah] [blah] to give an example here of how documentation can be organized. Be sure to check out the source and the `rst primer`_ and `toctree directive`_!
+I just wanted to give an example here of how documentation can be organized. Be sure to check out the source and the `rst primer`_ and `toctree directive`_!
 
 
 .. _rst primer: http://sphinx-doc.org/rest.html
