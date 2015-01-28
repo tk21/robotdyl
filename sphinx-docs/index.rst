@@ -16,8 +16,6 @@ KA Lite is lightweight web app that allows users without Internet access to enga
 .. _toctree directive: http://sphinx-doc.org/markup/toctree.html
 =======
 =======
-=======
->>>>>>> 208f5441da2931ca90ebd1ced9a7425ff06ae5ff
 
 .. _Khan Academy: https://www.khanacademy.org/
 
@@ -38,10 +36,5 @@ Contents
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
-<<<<<<< HEAD
-=======
-* :ref:`TEST1`
-* :ref:`TEST2`
->>>>>>> 208f5441da2931ca90ebd1ced9a7425ff06ae5ff
 
 
