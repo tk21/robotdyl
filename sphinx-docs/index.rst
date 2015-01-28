@@ -12,7 +12,7 @@ KA Lite is software that allows users without Internet access to engage with `Kh
 I just want to give an example here of how documentation can be organized. Be sure to check out the source and the `rst primer`_ and `toctree directive`_!
 
 
-*over writing the test: trying to push into christine's repo*
+*over writing the test: trying to push into my repo, after git hell**
 
 .. _rst primer: http://sphinx-doc.org/rest.html
 .. _toctree directive: http://sphinx-doc.org/markup/toctree.html
