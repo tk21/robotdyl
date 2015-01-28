@@ -1,4 +1,4 @@
-Topic 1
+User Manual
 ====
 Very interesting topic!
 
