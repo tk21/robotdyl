@@ -14,20 +14,17 @@ I just want to give an example here of how documentation can be organized. Be su
 
 *over writing the test: trying to push into my repo, after git hell**
 
-.. _rst primer: http://sphinx-doc.org/rest.html
-.. _toctree directive: http://sphinx-doc.org/markup/toctree.html
 .. _Khan Academy: https://www.khanacademy.org/
 
-Contents:
 
 .. toctree::
    :maxdepth: 1
 
-   User Manual <topic_dir/topic1>
-   Installation Guide<topic_dir/topic1>
+   User Manual <usermanual/topic1>
+   Installation Guide <installguide/topic1>
 
 
-Indices and tables
+Contents
 ==================
 
 * :ref:`genindex`
