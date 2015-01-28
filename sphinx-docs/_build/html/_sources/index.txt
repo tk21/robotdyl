@@ -11,24 +11,27 @@ KA Lite is software that allows users without Internet access to engage with `Kh
 
 I just want to give an example here of how documentation can be organized. Be sure to check out the source and the `rst primer`_ and `toctree directive`_!
 
+<<<<<<< HEAD
 .. _rst primer: http://sphinx-doc.org/rest.html
 .. _toctree directive: http://sphinx-doc.org/markup/toctree.html
+=======
+
+*over writing the test: trying to push into my repo, after git hell**
+
+>>>>>>> upstream/sphinx-docs
 .. _Khan Academy: https://www.khanacademy.org/
 
-Contents:
 
 .. toctree::
    :maxdepth: 1
 
-   User Manual <topic_dir/topic1>
-   Installation Guide<topic_dir/topic1>
-   What is KA Lite? <topic_dir/topic1>
-   What are the goals of KA Lite? <topic_dir/topic1>
-   How can KA Lite be used? <topic_dir/topic1>
-   Who uses KA Lite? <topic_dir/topic1>
-   How is this guide organized? <topic_dir/topic1>
+   User Manual <usermanual/topic1>
+   Installation Guide <installguide/topic1>
 
 Indices and tables
+=======
+
+Contents
 ==================
 
 * :ref:`genindex`
