@@ -6,12 +6,13 @@
 KA Lite Documentation
 ===================================
 
+=======
 KA Lite is software that allows users without Internet access to engage with `Khan Academy`_ videos and exercises in completely offline settings, bringing the flipped classroom model to some of the most remote areas in the world. Users can track their progress through videos and exercises, and coaches can log in and check up on their progress to identify which areas the students need the most help in. If KA Lite ever reaches an Internet connection, it can sync this usage data with the KA Lite Hub, an online data repository that allows project administrators to view data and manage accounts remotely of offline deployments. 
 
 I just want to give an example here of how documentation can be organized. Be sure to check out the source and the `rst primer`_ and `toctree directive`_!
 
 
-hELLO THIS IS A TEST!!! TESTING SLKDJFL;ASKJ 
+hELLO THIS IS A TEST!!! TESTING SLKDJFL;ASKJ I ACCEPT YOUR TEST
 
 .. _rst primer: http://sphinx-doc.org/rest.html
 .. _toctree directive: http://sphinx-doc.org/markup/toctree.html
