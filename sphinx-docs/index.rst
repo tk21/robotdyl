@@ -22,6 +22,7 @@ Contents:
 
    User Manual <topic_dir/topic1>
    Installation Guide<topic_dir/topic1>
+   TEST <topic_dir/topic1>
 
 
 Indices and tables
