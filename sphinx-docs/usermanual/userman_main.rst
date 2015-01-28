@@ -1,13 +1,10 @@
 User Manual
-============
+====
 
 .. toctree::
    :maxdepth: 2
 
-   Admin User Manual <userman_admin>
-   Coach User Manual <userman_coach>
-   Learner User Manual <userman_learner>
-
+   subtopic
 
 
 
@@ -19,7 +16,7 @@ KA Lite is software that allows users without Internet access to engage with `Kh
 
 
 Jump to a User Manual:
-==================================
+==================
 
 * :ref:`genindex`
 * :ref:`modindex`
@@ -30,22 +27,22 @@ Jump to a User Manual:
 
 
 What is KA Lite?
-==================================
+==================
 
 What are the goals of KA Lite?
-==================================
+==================
 
 How KA Lite works
-==================================
+==================
 
 Who can use KA Lite?
-==================================
+==================
 
 How is this guide organized?
-==================================
+==================
 
 Administrators
-==================================
+==================
 
 Students
 ==================

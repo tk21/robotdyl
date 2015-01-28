@@ -6,26 +6,30 @@
 KA Lite Documentation
 ===================================
 
+Welcome to the KA Lite Documentation! Here, you will find information on how to set up the KA Lite software, how to manage it, and how to perform role-specific tasks. 
 
-KA Lite is software that allows users without Internet access to engage with `Khan Academy`_ videos and exercises in completely offline settings, bringing the flipped classroom model to some of the most remote areas in the world. Users can track their progress through videos and exercises, and coaches can log in and check up on their progress to identify which areas the students need the most help in. If KA Lite ever reaches an Internet connection, it can sync this usage data with the KA Lite Hub, an online data repository that allows project administrators to view data and manage accounts remotely of offline deployments. 
+KA Lite is lightweight web app that allows users without Internet access to engage with `Khan Academy`_ videos and exercises in completely offline settings, bringing the flipped classroom model to some of the most remote areas in the world. Users can track their progress through videos and exercises, and coaches can log in and check up on their progress to identify which areas the students need the most help in.
 
-I just want to give an example here of how documentation can be organized. Be sure to check out the source and the `rst primer`_ and `toctree directive`_!
+>>Side note we should probably have some fat notice on how to download the videos, or at least mention in the guide that * THE VIDEOS WILL NOT COME WITH THE SOFTWARE INITIALLY * ... because users are probably expecting the videos to be there after the set up... but there are none... just saying <<
 
 <<<<<<< HEAD
 .. _rst primer: http://sphinx-doc.org/rest.html
 .. _toctree directive: http://sphinx-doc.org/markup/toctree.html
 =======
 
+<<<<<<< HEAD
 *over writing the test: trying to push into my repo, after git hell**
 
 >>>>>>> upstream/sphinx-docs
+=======
+>>>>>>> 208f5441da2931ca90ebd1ced9a7425ff06ae5ff
 .. _Khan Academy: https://www.khanacademy.org/
 
 
 .. toctree::
    :maxdepth: 1
 
-   User Manual <usermanual/topic1>
+   User Manual <usermanual/userman_main>
    Installation Guide <installguide/topic1>
 
 Indices and tables
@@ -40,18 +44,4 @@ Contents
 * :ref:`TEST1`
 * :ref:`TEST2`
 
-what if i just had text right here. 
-
-to create line breaks, enter twice!
-
-*ONE ASTERISK MEANS: italics*
-
-**what about here with two asterisks!!!**
-
-``FANCY SLASHES MEANS: code samples.``
-``but... the slashes must be touching beginning and end``
-
-* extra space in beginning*
-
-:rolename:`content`
 
