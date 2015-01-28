@@ -26,8 +26,8 @@
     <link rel="top" title="KA Lite 0 documentation" href="#" />
     <link rel="next" title="Topic 1" href="topic_dir/topic1.html" /> 
   </head>
-  <body>
-    <div class="related">
+  <body role="document">
+    <div class="related" role="navigation" aria-label="related navigation">
       <h3>Navigation</h3>
       <ul>
         <li class="right" style="margin-right: 10px">
@@ -43,18 +43,22 @@
     <div class="document">
       <div class="documentwrapper">
         <div class="bodywrapper">
-          <div class="body">
+          <div class="body" role="main">
             
   <div class="section" id="ka-lite-documentation">
 <h1>KA Lite Documentation<a class="headerlink" href="#ka-lite-documentation" title="Permalink to this headline">¶</a></h1>
 <p>KA Lite is software that allows users without Internet access to engage with <a class="reference external" href="https://www.khanacademy.org/">Khan Academy</a> videos and exercises in completely offline settings, bringing the flipped classroom model to some of the most remote areas in the world. Users can track their progress through videos and exercises, and coaches can log in and check up on their progress to identify which areas the students need the most help in. If KA Lite ever reaches an Internet connection, it can sync this usage data with the KA Lite Hub, an online data repository that allows project administrators to view data and manage accounts remotely of offline deployments.</p>
 <p>I just want to give an example here of how documentation can be organized. Be sure to check out the source and the <a class="reference external" href="http://sphinx-doc.org/rest.html">rst primer</a> and <a class="reference external" href="http://sphinx-doc.org/markup/toctree.html">toctree directive</a>!</p>
-<p>TESTINGGGG!!!!!!!!!!!!!!!!!!!!!! WASDJFL;ASDKFJLASDFJLASLJDF</p>
 <p>Contents:</p>
 <div class="toctree-wrapper compound">
 <ul>
 <li class="toctree-l1"><a class="reference internal" href="topic_dir/topic1.html">User Manual</a></li>
 <li class="toctree-l1"><a class="reference internal" href="topic_dir/topic1.html">Installation Guide</a></li>
+<li class="toctree-l1"><a class="reference internal" href="topic_dir/topic1.html">What is KA Lite?</a></li>
+<li class="toctree-l1"><a class="reference internal" href="topic_dir/topic1.html">What are the goals of KA Lite?</a></li>
+<li class="toctree-l1"><a class="reference internal" href="topic_dir/topic1.html">How can KA Lite be used?</a></li>
+<li class="toctree-l1"><a class="reference internal" href="topic_dir/topic1.html">Who uses KA Lite?</a></li>
+<li class="toctree-l1"><a class="reference internal" href="topic_dir/topic1.html">How is this guide organized?</a></li>
 </ul>
 </div>
 </div>
@@ -71,8 +75,8 @@
 <p>to create line breaks, enter twice!</p>
 <p><em>ONE ASTERISK MEANS: italics</em></p>
 <p><strong>what about here with two asterisks!!!</strong></p>
-<p><tt class="docutils literal"><span class="pre">FANCY</span> <span class="pre">SLASHES</span> <span class="pre">MEANS:</span> <span class="pre">code</span> <span class="pre">samples.</span></tt>
-<tt class="docutils literal"><span class="pre">but...</span> <span class="pre">the</span> <span class="pre">slashes</span> <span class="pre">must</span> <span class="pre">be</span> <span class="pre">touching</span> <span class="pre">beginning</span> <span class="pre">and</span> <span class="pre">end</span></tt></p>
+<p><code class="docutils literal"><span class="pre">FANCY</span> <span class="pre">SLASHES</span> <span class="pre">MEANS:</span> <span class="pre">code</span> <span class="pre">samples.</span></code>
+<code class="docutils literal"><span class="pre">but...</span> <span class="pre">the</span> <span class="pre">slashes</span> <span class="pre">must</span> <span class="pre">be</span> <span class="pre">touching</span> <span class="pre">beginning</span> <span class="pre">and</span> <span class="pre">end</span></code></p>
 <ul class="simple">
 <li>extra space in beginning*</li>
 </ul>
@@ -83,7 +87,7 @@
           </div>
         </div>
       </div>
-      <div class="sphinxsidebar">
+      <div class="sphinxsidebar" role="navigation" aria-label="main navigation">
         <div class="sphinxsidebarwrapper">
   <h3><a href="#">Table Of Contents</a></h3>
   <ul>
@@ -94,12 +98,14 @@
   <h4>Next topic</h4>
   <p class="topless"><a href="topic_dir/topic1.html"
                         title="next chapter">Topic 1</a></p>
-  <h3>This Page</h3>
-  <ul class="this-page-menu">
-    <li><a href="_sources/index.txt"
-           rel="nofollow">Show Source</a></li>
-  </ul>
-<div id="searchbox" style="display: none">
+  <div role="note" aria-label="source link">
+    <h3>This Page</h3>
+    <ul class="this-page-menu">
+      <li><a href="_sources/index.txt"
+            rel="nofollow">Show Source</a></li>
+    </ul>
+   </div>
+<div id="searchbox" style="display: none" role="search">
   <h3>Quick search</h3>
     <form class="search" action="search.html" method="get">
       <input type="text" name="q" />
@@ -116,7 +122,7 @@
       </div>
       <div class="clearer"></div>
     </div>
-    <div class="related">
+    <div class="related" role="navigation" aria-label="related navigation">
       <h3>Navigation</h3>
       <ul>
         <li class="right" style="margin-right: 10px">
@@ -128,9 +134,9 @@
         <li><a href="#">KA Lite 0 documentation</a> &raquo;</li> 
       </ul>
     </div>
-    <div class="footer">
+    <div class="footer" role="contentinfo">
         &copy; Copyright 2015, FLE.
-      Created using <a href="http://sphinx-doc.org/">Sphinx</a> 1.2.3.
+      Created using <a href="http://sphinx-doc.org/">Sphinx</a> 1.3b2.
     </div>
   </body>
 </html>
