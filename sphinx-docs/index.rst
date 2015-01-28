@@ -11,9 +11,6 @@ KA Lite is software that allows users without Internet access to engage with `Kh
 
 I just want to give an example here of how documentation can be organized. Be sure to check out the source and the `rst primer`_ and `toctree directive`_!
 
-
-hELLO THIS IS A TEST!!! TESTING SLKDJFL;ASKJ I ACCEPT YOUR TEST
-
 .. _rst primer: http://sphinx-doc.org/rest.html
 .. _toctree directive: http://sphinx-doc.org/markup/toctree.html
 .. _Khan Academy: https://www.khanacademy.org/
