@@ -42,11 +42,6 @@ Reaching offline or low-bandwidth communities with KA Lite is a team effort, and
 How is this guide organized?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-This guide assumes that you have already downloaded and installed the KA Lite software on your computer. If you have not yet completed these steps, please see the :doc:`../installguide/install_main`. From here, the guide is organized by the different “user types” within KA Lite: administrators, coaches, and students. The guide explains the different features that are available for each user and how they can put them to best use.
-
-
-
-
-.. _Installation Guide: `installguide/install_main`
+This guide assumes that you have already downloaded and installed the KA Lite software on your computer. If you have not yet completed these steps, please see the :doc:`../installguide/install_main`. From here, the guide is organized by the different “user types” within KA Lite: administrators, coaches, and learners. The guide explains the different features that are available for each user and how they can put them to best use.
 
 
