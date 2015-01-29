@@ -7,7 +7,7 @@ A person who :
     * installs and updates KA Lite
     * can create coach logins, student logins, download videos and language packs
 
-Important Terms for Project Administrators to Know
+Administrator Glossary
 -------------------------------------------
 
 **Sharing Network**
@@ -26,10 +26,32 @@ Setting up KA Lite
 -------------------
 Once you have successfully installed KA Lite, the installation script should give you a URL (http://127.0.0.1:8008/) to visit so that you can login for the first time. 
 
-Copy and paste the URL into a web browser and login to KA Lite using the username and password you created during the installaiton process. If you have forgotten the username/passwrod combination, simply delete this version of KA Lite. If it is critical that you are able to login with your credentials, :doc:`../contact` and we can help you manually reset your login information.
+Copy and paste the URL into a web browser and login to KA Lite using the username and password you created during the installaiton process. If you have forgotten the username/password combination, simply delete this version of KA Lite (delete the “ka-lite” folder that you downloaded during the installation guide steps for your system and then redo the installation steps in the Install Guide). If it is critical that you are able to login with your credentials, :doc:`../contact` and we can help you manually reset your login information.
 
-
+Once you’ve logged in, the next step in the setup process is registering your device with the KA Lite Hub.
 
 Registering Your Device with the Hub
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+By registering your device with FLE, you can sync data back with our central data hub. This is useful for many reasons:
+
+    #. a project administrator can manage user accounts and view usage data from afar, without needing to physically visit the offline device.
+    #. usage data syncing back can inform the FLE team of multiple users in a certain geographic region, and we can connect people that might be able to help one another
+    #. it helps FLE and our partners understand where and how the software is being used, so we can keep adding features that support you! 
+
+
+How to register your device
+############################
+
+
+
+
+
+
+
+
+
+
+
+
 
