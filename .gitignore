@@ -57,6 +57,5 @@ target/
 *.swp
 
 
-sphinx-doc/_build/
-
+sphinx-docs/_build/
 .DS_Store
