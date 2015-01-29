@@ -1,3 +1,0 @@
-Installation on Mac
-============================
-If you have a Mac please follow these steps...
