@@ -2,7 +2,7 @@ Learner User Manual
 =======================
 
 .. toctree::
-   :maxdepth: 1
+	:maxdepth: 1
 
  	userman_learner
 
