@@ -1,10 +1,10 @@
-User Manual
-====
+Learner User Manual
+=======================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
-   subtopic
+ 	userman_learner
 
 
 
@@ -14,13 +14,6 @@ KA Lite is software that allows users without Internet access to engage with `Kh
 
 .. _Khan Academy: https://www.khanacademy.org/ 
 
-
-Jump to a User Manual:
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
 
 //probably will not need this part with all the ref links? it will go in sidebar ^^
 
