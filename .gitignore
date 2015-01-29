@@ -55,3 +55,8 @@ target/
 
 # vim swap files, added by Mike Gallaspy
 *.swp
+
+
+sphinx-doc/_build/
+
+.DS_Store
