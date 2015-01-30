@@ -19,7 +19,6 @@ Installation Guides
 
 	Installation Guide <installguide/install_main>
 
-
 User Manuals
 --------------------
 .. toctree::
