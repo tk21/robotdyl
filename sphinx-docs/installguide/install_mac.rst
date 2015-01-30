@@ -42,3 +42,4 @@ Macintosh installation uses the command line, but if you follow the instructions
 #. KA lite should be accessible from http://127.0.0.1:8008/
 
 	* Replace 127.0.0.1 with the computer's external IP address or domain name to access it from another computer.
+

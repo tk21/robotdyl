@@ -5,3 +5,4 @@ Windows Installation Guide
 
 #. After downloading the .exe file, double click it. A window will appear and guide you through the process of installing KA Lite on the server.
 
+
