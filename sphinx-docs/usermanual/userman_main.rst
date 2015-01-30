@@ -3,9 +3,13 @@ User Manual
 
 If you know which user manual you'd like to see, click to jump to a specific  manual:
 
-* :doc:`userman_admin`
-* :doc:`userman_coach`
-* :doc:`userman_learner`
+.. toctree::
+	:maxdepth: 1
+
+
+	Administrator User Manual <userman_admin>
+	Coach User Manual <userman_coach>
+	Learner User Manual <userman_learner>
 
 
 Introduction

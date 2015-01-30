@@ -1,3 +1,3 @@
-Installation on Linux
-============================
-If you are running Linux then...
+Linux Installation Guide
+===========================
+What a wonderful page. hELLO WELCOME YOU WILL LEARN HAO 2 INSTALL HERE
