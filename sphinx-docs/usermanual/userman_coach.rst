@@ -1,3 +1,3 @@
-Coach User Manual
+Teacher User Manual
 ===================
 Another pretty page. 

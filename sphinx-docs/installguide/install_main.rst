@@ -2,11 +2,6 @@ KA Lite Installation Guide
 ===========================
 Hello! If you know what OS you're installing on then click ahead.
 
-* :doc:`install_windows`
-* :doc:`install_mac`
-* :doc:`install_linux`
-* :doc:`rasp_pi`
-
 .. toctree::
 	:maxdepth: 3
 	

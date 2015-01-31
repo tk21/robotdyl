@@ -1,4 +1,4 @@
-Learner User Manual
+Student User Manual
 =======================
 
 
