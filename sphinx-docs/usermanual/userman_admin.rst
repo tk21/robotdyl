@@ -204,14 +204,28 @@ Downloading Individual Videos
 #. View subtopics by clicking on the '+' symbol to the left of a subject of your choice. You can cose them by clicking on the '-' symbol.
 #. Mark the content you wish to download by clicking the checkbox to the left of the content name. 
 #. Click the green "Download" button in the top left box of the page. The button should also show you the total number of videos you have selected to download, as well as the total size of the content.
-#. Once
+#. Once the download is completed, video content will be ready for students to watch!
 
 Downloading Videos in Bulk
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Downloading Language Packs
+Language Packs
 ---------------------------
+KA Lite supports internationalization. You can downloa dlanguage packs for yoru language if it is available. A language pack comes with all the available subtitles and user interface translations for that language. When it is installed, KA Lite will giv eyou the option to download individual dubbed videos from the language's Khan Academy YouTube channel.
 
+Download Language Packs
+^^^^^^^^^^^^^^^^^^^^^^^^^
+To download language packs: 
+#. From the "Manage" page, click on the "Language" tab. 
+#. Select the language pack you wish to download by selecting from the drop-down menu.
+#. Click the "Get Language Pack" button. 
+#. Once the download finishes, you can see your language pack in the list of installed packs. Students and coaches will now be able to switch their language to any of the installed language packs. Their default will be the default that you set by clicking on "Set as default". 
+
+Delete Language Packs
+^^^^^^^^^^^^^^^^^^^^^^^^^
+#. Log in as the administrator.
+#. Click the "Languages" link in the navigation bar
+#. In the Installed Languages section, there is a button for deletion of each language.
 
 
 
