@@ -1,12 +1,17 @@
 User Manual
 ============
 
-If you know which user manual you'd like to see, click to jump to a specific  manual:
+The user manual is organized by the different "user types" within KA Lite. If you know which user manual you'd like to see, click to jump to a specific  manual:
 
-* :doc:`userman_admin`
-* :doc:`userman_coach`
-* :doc:`userman_learner`
+.. toctree::
+	:maxdepth: 1
 
+
+	Administrator User Manual <userman_admin>
+	Teacher User Manual <userman_coach>
+	Student User Manual <userman_learner>
+
+This guide assumes that you have already downloaded and installed the KA Lite software on your computer. If you have not yet completed these steps, please see the :doc:`../installguide/install_main`. 
 
 Introduction
 ----------------------------------
@@ -25,7 +30,7 @@ How KA Lite works
 
 KA Lite can be used in two different ways, depending on your needs:
 
-#. KA Lite can be installed on one local computer which acts as a server, with client devices connecting to this local server to watch the Khan Academy videos, and to work on practice problems. A coach can then check on each students progress. This method is typically used by schools and other educational institutions.
+#. KA Lite can be installed on one local computer which acts as a server, with client devices connecting to this local server to watch the Khan Academy videos, and to work on practice problems. A coach/teacher can then check on each student's progress. This method is typically used by schools and other educational institutions.
 
 #. KA Lite can be installed on the client device itself, and be used to download Khan Academy videos for offline viewing. In this way, KA Lite is almost like a piece of software that you’d install on your computer, except it runs in the Internet browser. 
 
@@ -33,15 +38,15 @@ Who can use KA Lite?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Reaching offline or low-bandwidth communities with KA Lite is a team effort, and we find that a wide variety of people come together to make that happen. In a typical KA Lite deployment, there are 3 types of people involved with the project, which are organized into user types:
 
-    #. **Administrators** plan out the deployment and logistics, procure the devices and installs KA Lite, and oversee their delivery and integration into the classroom or community. They can also update the software, add content, customize configuration settings, and manage user accounts.
+#. **Administrators** 
+	Administrators plan out the deployment and logistics, procure the devices and installs KA Lite, and oversee their delivery and integration into the classroom or community. They can also update the software, add content, customize configuration settings, and manage user accounts.
 
-    #. **Coaches** (also referred to as ‘facilitators’ or ‘teachers’) are users who add, manage, and track the progress of groups of students. They have access to student progress data in the form of coach reports, and can step in and provide individualized instruction when the student needs it.
 
-    #. **Learners** (also referred to as 'students') are users who use KA Lite primarily for learning. They earn points for watching videos and answering exercises correctly, and their progress is tracked by the system.
+#. **Teachers** 
+	Teachers (also referred to as ‘facilitators’ or ‘coaches’) are users who add, manage, and track the progress of groups of students. They have access to student progress data in the form of coach reports, and can step in and provide individualized instruction when the student needs it.
 
-How is this guide organized?
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-This guide assumes that you have already downloaded and installed the KA Lite software on your computer. If you have not yet completed these steps, please see the :doc:`../installguide/install_main`. From here, the guide is organized by the different “user types” within KA Lite: administrators, coaches, and learners. The guide explains the different features that are available for each user and how they can put them to best use.
+#. **Students** 
+	Students (also referred to as 'learners') are users who use KA Lite primarily for learning. They earn points for watching videos and answering exercises correctly, and their progress is tracked by the system.
 
 

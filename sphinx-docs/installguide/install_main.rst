@@ -1,6 +1,6 @@
 KA Lite Installation Guide
 ===========================
-What a wonderful page. hELLO WELCOME YOU WILL LEARN HAO 2 INSTALL HERE
+Hello! If you know what OS you're installing on then click ahead.
 
 .. toctree::
 	:maxdepth: 3
@@ -8,3 +8,4 @@ What a wonderful page. hELLO WELCOME YOU WILL LEARN HAO 2 INSTALL HERE
 	Windows Installation Guide <install_windows>
 	Mac Installation Guide <install_mac>
 	Linux Installation Guide <install_linux>
+	Raspberry Pi <rasp_pi>
