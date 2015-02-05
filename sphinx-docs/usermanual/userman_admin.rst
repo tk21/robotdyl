@@ -34,9 +34,9 @@ Once you have successfully installed KA Lite, the installation script should giv
 
 Copy and paste the URL into a web browser. The KA Lite application should show up.  and login to KA Lite using the username and password you created during the installation process. 
 
-* If you have forgotten the username/password combination, simply delete this version of KA Lite (delete the “ka-lite” folder that you downloaded during the installation guide steps for your system and then redo the installation steps in the Install Guide). If it is critical that you are able to login with your credentials, :doc:`../contact` and we can help you manually reset your login information.
+* If you have forgotten the username/password combination, simply delete this version of KA Lite (delete the â€œka-liteâ€� folder that you downloaded during the installation guide steps for your system and then redo the installation steps in the Install Guide). If it is critical that you are able to login with your credentials, :doc:`../contact` and we can help you manually reset your login information.
 
-Once you’ve logged in, the next step in the setup process is registering your device with the KA Lite Hub.
+Once youâ€™ve logged in, the next step in the setup process is registering your device with the KA Lite Hub.
 
 Registering Your Device with the Hub
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -70,7 +70,7 @@ Now that you have registered successfully, it's time to configure your local KA 
 
 Create a Facility
 -------------------------
-KA Lite assumes that you are going to be using the software primarily in one place. This could be a school, a home, a community center, etc. We call this place a “facility”, and use it to help differentiate users who are syncing back data with our central data hub. In order to create a facility, follow the steps below.
+KA Lite assumes that you are going to be using the software primarily in one place. This could be a school, a home, a community center, etc. We call this place a â€œfacilityâ€�, and use it to help differentiate users who are syncing back data with our central data hub. In order to create a facility, follow the steps below.
 
 #. Log in to KA Lite.
 #. Click the "Manage" tab at the top of the page.
@@ -226,8 +226,4 @@ Delete Language Packs
 #. Log in as the administrator.
 #. Click the "Languages" link in the navigation bar
 #. In the Installed Languages section, there is a button for deletion of each language.
-
-
-
-
 

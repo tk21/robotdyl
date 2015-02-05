@@ -49,6 +49,7 @@ coverage.xml
 
 # Sphinx documentation
 docs/_build/
+sphinx-docs/_build/
 
 # PyBuilder
 target/
@@ -56,6 +57,5 @@ target/
 # vim swap files, added by Mike Gallaspy
 *.swp
 
-
-sphinx-docs/_build/
-.DS_Store
+# Ignore some mac fs file(?)
+*.DS_Store
