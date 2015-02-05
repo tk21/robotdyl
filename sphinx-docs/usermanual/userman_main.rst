@@ -1,12 +1,10 @@
 User Manual
 ====
+	Administrator User Manual <userman_admin>
+	Teacher User Manual <userman_coach>
+	Student User Manual <userman_learner>
 
-.. toctree::
-   :maxdepth: 2
-
-   subtopic
-
-
+This guide assumes that you have already downloaded and installed the KA Lite software on your computer. If you have not yet completed these steps, please see the :doc:`../installguide/install_main`. 
 
 Introduction
 ==================
@@ -24,8 +22,6 @@ Jump to a User Manual:
 
 //probably will not need this part with all the ref links? it will go in sidebar ^^
 
-
-
 What is KA Lite?
 ==================
 
@@ -38,19 +34,14 @@ How KA Lite works
 Who can use KA Lite?
 ==================
 
-How is this guide organized?
-==================
+#. **Administrators** 
+	Administrators plan out the deployment and logistics, procure the devices and installs KA Lite, and oversee their delivery and integration into the classroom or community. They can also update the software, add content, customize configuration settings, and manage user accounts.
 
-Administrators
-==================
 
-Students
-==================
+#. **Teachers** 
+	Teachers (also referred to as ‘facilitators’ or ‘coaches’) are users who add, manage, and track the progress of groups of students. They have access to student progress data in the form of coach reports, and can step in and provide individualized instruction when the student needs it.
 
-Coaches
-==================
 
-Contents 
-==================
-
+#. **Students** 
+	Students (also referred to as 'learners') are users who use KA Lite primarily for learning. They earn points for watching videos and answering exercises correctly, and their progress is tracked by the system.
 
